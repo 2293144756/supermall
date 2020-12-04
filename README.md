@@ -1,5 +1,7 @@
 # supermall
 
+  ![Image text](./src/assets/img/QQ浏览器截图20201203215618.png)
+
 ## Project setup
 ```
 npm install
@@ -18,4 +20,3 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![Image text](./src/assets/img/QQ浏览器截图20201203215618.png)
