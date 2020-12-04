@@ -1,7 +1,9 @@
 # supermall
 
-  ![Image text](./src/assets/img/QQ浏览器截图20201203215618.png)
-
+  ![蘑菇街](./src/assets/img/QQ浏览器截图20201203215618.png)
+  ![蘑菇街](./src/assets/img/QQ浏览器截图20201203215642.png)
+  ![蘑菇街](./src/assets/img/QQ浏览器截图20201203215709.png)
+  ![蘑菇街](./src/assets/img/QQ浏览器截图20201203215833.png)
 ## Project setup
 ```
 npm install
